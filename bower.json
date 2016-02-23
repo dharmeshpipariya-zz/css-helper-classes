@@ -1,0 +1,24 @@
+{
+  "name": "css-helper-classes",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ahmadajmi/css-helpers",
+  "authors": [
+    "Dharmesh Pipariya <pipariyadharmesh@gmail.com>"
+  ],
+  "description": "A small CSS library that provides a set of CSS helper classes.",
+  "main": "helpers.scss",
+  "keywords": [
+    "css",
+    "utility",
+    "helper",
+    "classes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
