@@ -2,13 +2,7 @@ A small library of CSS helper classes that can be used to reduce the amount of C
 
 ### Add it to your project
 
-You can install it using bower
-
-```
-bower install css-helpers-lib
-```
-
-Or you can download it manualy and add it to your project.
+you can download it manualy and add it to your project.
 
 ### Development
 
