@@ -243,6 +243,22 @@ $border-color-dark: #bdc3c7 !default;
 .m-l-20 { margin-left: 20px !important; }
 .m-l-25 { margin-left: 25px !important; }
 
+// X(Left-Right)
+.m-x-0  { margin-right: 0 !important; margin-left: 0 !important; }
+.m-x-5  { margin-right: 5px !important;  margin-left: 5px !important; }
+.m-x-10 { margin-right: 10px !important; margin-left: 10px !important; }
+.m-x-15 { margin-right: 15px !important; margin-left: 15px !important; }
+.m-x-20 { margin-right: 20px !important; margin-left: 20px !important; }
+.m-x-25 { margin-right: 25px !important; margin-left: 25px !important; }
+
+// Y(Top-Bottom)
+.m-y-0  { margin-top: 0 !important; margin-bottom: 0 !important; }
+.m-y-5  { margin-top: 5px !important;  margin-bottom: 5px !important; }
+.m-y-10 { margin-top: 10px !important; margin-bottom: 10px !important; }
+.m-y-15 { margin-top: 15px !important; margin-bottom: 15px !important; }
+.m-y-20 { margin-top: 20px !important; margin-bottom: 20px !important; }
+.m-y-25 { margin-top: 25px !important; margin-bottom: 25px !important; }
+
 
 // Padding
 .p-0  { padding: 0 !important; }
@@ -283,3 +299,19 @@ $border-color-dark: #bdc3c7 !default;
 .p-l-15 { padding-left: 15px !important; }
 .p-l-20 { padding-left: 20px !important; }
 .p-l-25 { padding-left: 25px !important; }
+
+// X(Left-Right)
+.p-x-0  { padding-right: 0 !important; padding-left: 0 !important; }
+.p-x-5  { padding-right: 5px !important;  padding-left: 5px !important; }
+.p-x-10 { padding-right: 10px !important; padding-left: 10px !important; }
+.p-x-15 { padding-right: 15px !important; padding-left: 15px !important; }
+.p-x-20 { padding-right: 20px !important; padding-left: 20px !important; }
+.p-x-25 { padding-right: 25px !important; padding-left: 25px !important; }
+ 
+// Y(Top-Bottom)
+.p-y-0  { padding-top: 0 !important; padding-bottom: 0 !important; }
+.p-y-5  { padding-top: 5px !important;  padding-bottom: 5px !important; }
+.p-y-10 { padding-top: 10px !important; padding-bottom: 10px !important; }
+.p-y-15 { padding-top: 15px !important; padding-bottom: 15px !important; }
+.p-y-20 { padding-top: 20px !important; padding-bottom: 20px !important; }
+.p-y-25 { padding-top: 25px !important; padding-bottom: 25px !important; }
